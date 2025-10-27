@@ -1,0 +1,4 @@
+name: Paticle
+version: '1.0-SNAPSHOT'
+main: com.example.paticle.Paticle
+api-version: '1.21'
